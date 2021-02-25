@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "All-Star Game 2000 #8 Kobe Bryant",
+      "image": "/images/1.jpg",
+      "tags": "92 ",
+      "price": "5940",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "球員版復古球衣 All-Star Game 2009 #24 Kobe Bryant",
+      "price": "5380",
+      "tags": "25 Colors",
+      "image": "/images/2.jpg",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "name": "All-Star Game 2003 #8 Kobe Bryant",
+      "image": "/images/3.jpg",
+      "tags": "16 Color, y",
+      "price": "4890",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "All-Star Game 1985 #23 Michael Jordan",
+      "price": "7148",
+      "tags": "84 Colors",
+      "image": "/images/4.jpg",
+      "status": "unavailable"
+    },
+    {
+      "id": 5,
+      "name": "All-Star Game 2005 #15 Vince Carter",
+      "image": "/images/5.jpg",
+      "tags": "34 Colors",
+      "price": "4690",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "Team Heritage All-Star Game 1973",
+      "image": "/images/6.jpg",
+      "tags": "26 Colors",
+      "price": "8031",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "All-Star Game 1997 #23 Michael Jordan",
+      "image": "/images/7.jpg",
+      "tags": "",
+      "price": "5460",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "All-Star Game 1988 #23 Michael Jordan",
+      "image": "/images/8.jpg",
+      "tags": "",
+      "price": "8180",
+      "status": "available"
+    },
+    {
+      "name": "NBA 2018明星賽長袖連帽T恤 STAR 白色",
+      "price": "3880",
+      "status": "available",
+      "tags": "",
+      "image": "/images/9.jpg",
+      "id": 9
+    },
+    {
+      "name": "NBA 2018明星賽長袖連帽T恤 STAR 黑色",
+      "price": "4890",
+      "status": "available",
+      "tags": "",
+      "image": "/images/10.jpg",
+      "id": 10
+    },
+    {
+      "name": "NBA 2018明星賽長袖連帽T恤 LA18 白色",
+      "price": "3440",
+      "status": "available",
+      "tags": "",
+      "image": "/images/11.jpg",
+      "id": 11
+    },
+    {
+      "name": "NBA 2018明星賽長袖連帽T恤 LA18 黑色",
+      "price": "12000",
+      "status": "available",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "id": 12
+    }
+  ],
+  "carts": [
+  ]
+}
